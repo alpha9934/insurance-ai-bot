@@ -3,6 +3,7 @@
 # 🛡️ InsureIntel AI: Agentic Document & Web RAG Engine
 
 An intelligent, context-aware Generative AI copilot built specifically for the insurance sector. It ingests complex insurance policies, rider terms, and claim forms, delivers structural summaries, and autonomously queries the live web via OpenAI function calling to patch missing data, look up compliance codes, or verify regional regulatory changes.
+![insurance-ai-bot](./frontend.png)
 
 
 
